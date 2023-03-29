@@ -1,4 +1,4 @@
-# Node.js
+# PHP
 
 To compile projects written in [PHP](https://www.php.net/).
 
