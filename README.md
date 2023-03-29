@@ -16,6 +16,8 @@ To compile projects written in [PHP](https://www.php.net/).
 
 [Wordpress](https://github.com/brtmvdl/wordpress)
 
+[Codeigniter](https://github.com/brtmvdl/codeigniter)
+
 ## Services
 
 ...
